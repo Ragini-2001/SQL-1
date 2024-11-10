@@ -1,0 +1,1 @@
+select * from employee_details where 'first name'like 'A%';

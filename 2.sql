@@ -1,0 +1,7 @@
+--insert into employee_details values (1,'ragini','dokarmare','raginidokarmare@gmail.com',
+--7558466795,'2024-10-21',55000,101,'yes','business_analyst')
+ --insert into employee_details values (2,'rituja','niltkar','ritujaniltkar@gmail.com',
+ --8596748563,'2024-10-21',60000,102,'yes','accountant'),(3,'sakshi','brahme','sakshi02@gmail.com',
+ --9557846325,'2024-10-21',30000,103,'no','human_resourses'),(4,'reshma','banothe','reshmabanothe@gmail.com',
+ --7456981258,'2024-10-21',40000,104,'yes','Data_Analyst'),(5,'arya','deshmukh','arya2001@gmail.com',
+ --9875641235,'2024-10-21',70000,105,'no','Software_Architect')

@@ -1,0 +1,1 @@
+delete from employee_details where employee_id between 1 and 5
